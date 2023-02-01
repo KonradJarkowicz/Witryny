@@ -3,6 +3,8 @@
 
 section{
     background: red;
+    position:absolute;
+    float:left;
 }
 
 .formularz_jarkowicz .section span {
